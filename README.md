@@ -1,2 +1,2 @@
-# CellSeed
-互动设计与视觉2
+# VRShow
+VR场景展示
